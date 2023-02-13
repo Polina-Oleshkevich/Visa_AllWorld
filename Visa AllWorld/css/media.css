@@ -1,0 +1,7 @@
+@media only screen and (max-width: 514px), only screen and 
+(max-device-width: 514px) {
+  #main-menu > li {
+    display: none;
+  }
+ 
+}
